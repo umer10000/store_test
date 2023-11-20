@@ -60,7 +60,7 @@
         <div class="preloader flex-column justify-content-center align-items-center">
             <img class="animation__shake"
                 src="{{ isset($setting->logo) ? URL::asset('uploads/settings/' . $setting->logo) : URL::asset('admin/dist/img/AdminLTELogo.png') }}"
-                alt="K7Store">
+                alt="">
         </div>
 
         <!-- Navbar -->

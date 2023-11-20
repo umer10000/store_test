@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>K7 Tracks Store | @yield('title', '')</title>
+    <title> | @yield('title', '')</title>
 
 
     <!-- Google Font: Source Sans Pro -->

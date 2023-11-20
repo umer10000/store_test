@@ -25,7 +25,7 @@ class ContactUsController extends Controller
 
                 Mail::send('front.emails.contact-us', $mailData, function ($message) use ($mailData) {
                     $message->to($mailData['to'])->from($mailData['email'])
-                        ->subject('Contact Us - K7Store');
+                        ->subject('Contact Us -store test');
                 });
 
                 return redirect()->back()->with(['success' => 'Your Query Submitted.']);
