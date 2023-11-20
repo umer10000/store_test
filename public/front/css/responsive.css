@@ -1,0 +1,869 @@
+@media (min-width: 768px) {
+	footer .container {
+		max-width: 750px;
+	}
+}
+
+@media (min-width: 992px) {
+	footer .container {
+		max-width: 970px;
+	}
+}
+
+@media (min-width: 1200px) {
+	footer .container {
+		max-width: 1240px;
+	}
+}
+@media (min-width: 1200px) {
+	.container {
+		max-width: 1210px;
+	}
+}
+
+
+
+@media only screen and (max-width: 1599px) {
+	.featuredSec {
+		padding: 5rem 0 10rem;
+	}
+
+	.proFilter .accordion .card .card-header button {
+    font-size: 14px;
+}
+.cartSec {
+    padding: 4rem 0;
+}
+}
+
+@media only screen and (max-width: 1440px) {
+
+	.proThumb .content h4 {
+    font-size: 13px !important;
+    line-height: 24px;
+    height: auto;
+}
+
+.proFilter .form-group label {
+    font-size: 13px;
+}
+.card-body {
+    padding: 0.5rem;
+}
+section.featuredSec.secfeatured {
+    padding: 3rem 0;
+    height: auto;
+}
+}
+
+@media only screen and (max-width: 1366px) {
+	.featuredSec {
+		padding: 3rem 0 8rem;
+	}
+	.proFilter h3 {
+    padding: 1rem 0.5rem;
+}
+}
+
+@media only screen and (max-width: 1199px) {
+	.proDetail h3 {
+    font-size: 1.6rem;
+}
+
+.detl-ar {
+    margin-top: 2rem !important;
+}
+
+.accountDetail .title, .cartSec .title, .relatedProducts .title, .proShowcase h2.title {
+    font-size: 30px;
+    margin-bottom: 2rem;
+}
+
+.proDetail {
+    padding: 3rem 0;
+}
+
+.relatedProducts {
+    padding-bottom: 2rem;
+}
+	header .navbar .navbar-nav li a {
+    padding: 15px 4px 15px 0;
+}
+	header .navbar-brand img {
+		width: 140px;
+	}
+	.signInBtn img {
+		width: 30px;
+	}
+	.signInBtn,
+	header .navbar .navbar-nav li a {
+		font-size: 11px;
+	}
+	header .bottom .navbar .navbar-nav li a {
+		font-size: 14px;
+	}
+	header .search form .form-control,
+	header .search form button {
+		height: 48px;
+	}
+	.mainBan {
+		padding: 7rem 0;
+	}
+	.mainBan h2 {
+		font-size: 6rem;
+		line-height: 6rem;
+	}
+
+	.mainBan .cell a {
+		padding: 0.9rem 2rem;
+		font-size: 1rem;
+	}
+
+	.introSec h3 {
+		font-size: 1.8rem;
+		line-height: 2.5rem;
+	}
+
+	.title {
+		padding-bottom: 1.8rem;
+		margin-bottom: 1.5rem;
+		font-size: 3rem;
+	}
+
+	.gearThumb .circle {
+		height: 17.875rem;
+	}
+
+	.gearThumb .circle img {
+		width: 180px;
+	}
+
+	.relatedProSec {
+		padding-bottom: 3rem;
+	}
+	.cartSec .table .cell .content h4,
+	.proFilter .accordion .card .card-header button,
+	.proFilter h3,
+	.sortFilter p,
+	.sortFilter label,
+	.proShowcase .breadcrumb li a,
+	.proThumb .content h4 {
+		font-size: 14px !important;
+	}
+	.proFilter .accordion .card .card-header button {
+		font-size: 15px;
+		padding: 0.5rem;
+	}
+	.proFilter .accordion .card .card-header button i {
+		width: 15px;
+		height: 15px;
+		font-size: 8px;
+	}
+
+	.featuredSec {
+		padding: 2rem 0 5rem;
+	}
+
+	.featuredSec h2 {
+		font-size: 2.5rem;
+		margin-bottom: 2rem;
+	}
+
+	.lg-menu {
+		padding-top: 0;
+	}
+	.cartSec,
+	.proShowcase {
+		padding: 4em 0;
+	}
+	.cartSec .title {
+    font-size: 30px;
+}
+	.orderSumry {
+		margin-left: -15px;
+	}
+	.orderSumry .summary-body {
+		padding: 0.5rem;
+	}
+	.orderSumry .summary-body strong {
+		font-size: 15px;
+	}
+	.orderSumry .summary-footer strong {
+		font-size: 20px;
+	}
+	.cartSec .table .cell .img {
+		width: 190px;
+	}
+	.cartSec .table tbody tr td {
+		padding: 1rem;
+	}
+	.orangeBtn {
+		font-size: 1.15rem;
+		padding: 0.7rem 2rem;
+	}
+	.checkoutSec #loginCollapse .card-body .orangeBtn {
+		padding: 0.8rem 0.5rem;
+	}
+	.accountDetail .tab-content {
+		margin-top: 0rem;
+	}
+	.formStyle .form-control {
+    font-size: 14px;
+}
+.accountDetail .title {
+    margin-bottom: 1rem;
+    font-size: 35px;
+}
+	.accountDetail {
+		padding: 50px 0;
+	}
+	.changePassword {
+		padding: 4rem 0;
+	}
+	.changePassword .title {
+    font-size: 1.8rem;
+}
+	.proThumb .content {
+    padding: 10px;
+}
+.specialDealSection h2 {
+    margin-bottom: 30px;
+    font-size: 35px !important;
+}
+
+.advertiseSection h2 {
+    margin-bottom: 30px;
+    font-size: 35px !important;
+}
+
+.dealZoneSec {
+    padding: 40px 0px;
+}
+
+section.dealZoneSec h4 {
+    font-size: 16px;
+}
+
+.dealZoneSec h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+section.topCategoriesSection h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+section.relatedProSec h2 {
+    font-size: 35px !important;
+}
+
+.relatedProSec .nav-pills .nav-link {
+    padding: .5rem 0.9rem;
+    font-size: 14px;
+}
+
+.relatedProSec .nav-pills {
+    margin-bottom: 1.5rem;
+}
+
+.featuredSec.secfeatured h2 {
+    font-size: 2.5rem;
+}
+.footer-social li a {
+    font-size: 13px;
+}
+
+.footer-social li a i {
+    width: 30px;
+    height: 30px;
+}
+.textwidget p {
+    font-size: 13px;
+}
+
+.main-signinpg {
+    padding: 60px 0;
+}
+.radio label {
+    font-size: 14px;
+}
+
+.tAndCMain h2 {
+    font-size: 25px;
+}
+
+.tAndCMain h3 {
+    font-size: 22px;
+}
+.tAndCMain {
+    padding: 40px 0px;
+}
+}
+
+@media only screen and (max-width: 991px) {
+	.tabbable-line .nav-pills li .nav-link {
+    margin-bottom: 0;
+}
+
+.radio label {
+    font-size: 11px;
+}
+
+	.login-panel form {
+    padding: 30px 0px 0;
+}
+
+.login-panel .panel-title {
+    font-size: 18px;
+}
+
+.login-panel p {
+    font-size: 12px;
+}
+
+.login-panel.panel-default > .panel-heading {
+    padding: 1rem 0;
+}
+
+.proDetail .detl h4 {
+    font-size: 1.2rem;
+}
+	.formStyle .form-control {
+    font-size: 11px;
+}
+.accountDetail .title {
+    font-size: 25px;
+}
+.addProducts .title .orangeBtn, div#addresses .orangeBtn {
+    padding: 0.8rem 1rem;
+    font-size: 0.8rem;
+}
+
+.accountDetail .formStyle label {
+    font-size: 14px;
+}
+
+.accountDetail .formStyle .orangeBtn {
+    font-size: 16px;
+}
+
+.vertiThumb {
+    display: block;
+}
+
+.vertiThumb .content {
+    width: 100%;
+}
+
+
+.searchStyle .input-group-text {
+    font-size: 20px;
+}
+
+.searchStyle .form-control {
+    font-size: 14px;
+}
+
+.table.orderTable tr th, .table.orderTable tr td {
+    font-size: 0.7rem;
+}
+	.navbar-toggler {
+		color: #fff;
+	}
+	header .navbar-brand img {
+		width: 200px;
+	}
+	.navbar-toggler {
+		color: #fff;
+	}
+
+	header .navbar .navbar-nav li a {
+		width: 100%;
+		text-align: center;
+		display: block;
+		padding: 0.4rem;
+	}
+	.signInBtn,
+	header .navbar .navbar-nav li a {
+		font-size: 14px;
+	}
+	.signInBtn img {
+		width: 45px;
+	}
+	header .bottom .navbar .navbar-nav li a {
+		    padding: 15px 3px;
+    font-size: 13px;
+	}
+	.signInBtn {
+		display: table;
+		margin: 0 auto;
+	}
+	.mainBan {
+		padding: 5rem 0;
+		background-attachment: local;
+	}
+	.mainBan h2 {
+		font-size: 4rem;
+		line-height: 5rem;
+	}
+
+	.title {
+		font-size: 2.6rem;
+	}
+
+	.gearThumb .circle {
+		height: 13rem;
+	}
+
+	.gearThumb .circle img {
+		width: 130px;
+	}
+
+	.gearThumb h4 {
+		font-size: 20px;
+	}
+
+	.relatedProSec .nav-pills .nav-link {
+		font-size: 13px;
+		padding: 0.5rem;
+	}
+
+	.featuredSec {
+		padding: 2rem 0;
+		background: #111922;
+		text-align: center;
+	}
+
+	.featuredSec h2 {
+		margin: 0 auto 2rem;
+	}
+	.proFilter .accordion .card .card-header button {
+		padding: 0.5rem;
+		font-size: 15px;
+	}
+
+	.proFilter .accordion .card .card-header button i {
+		width: 15px;
+		height: 15px;
+		font-size: 8px;
+	}
+
+	.proFilter .accordion .card .card-body {
+		padding: 0.5rem;
+	}
+	.proDetail h3 {
+		font-size: 1.1rem;
+    line-height: 1.7rem;
+	}
+	.proDetail .detl {
+		margin-top: 3rem;
+	}
+	.proDetail .detl p,
+	.proDetail .list-unstyled li span {
+		font-size: 16px;
+	}
+	.orangeBtn-border {
+		font-size: 13px;
+		padding: 0.5rem 1rem;
+		width: 100%;
+		text-align: center;
+	}
+	.footer-form .orangeBtn,
+	.checkoutSec .orangeBtn,
+	.accountDetail .formStyle .orangeBtn,
+	.proDetail .detl .orangeBtn {
+		width: 100%;
+		text-align: center;
+	}
+	.cartSec .table-responsive {
+		width: 100%;
+	}
+	.orderSumry {
+		margin-left: 0;
+	}
+	.orderSumry .summary-body {
+		padding: 2.5rem;
+	}
+	.accountDetail .tab-content {
+		margin-top: 0;
+	}
+	.accountDetail .formStyle {
+		padding: 15px 0;
+	}
+	.formStyle .form-control {
+		font-size: 12px;
+    padding: 0 5px;
+	}
+	.proDetail hr {
+		margin: 2rem 0;
+	}
+	.introSec,
+	.proDetail,
+	.cartSec,
+	.proShowcase {
+		padding: 3em 0;
+	}
+	.featuredProducts {
+		padding: 3em 0 0;
+	}
+	.buyGearSec {
+		padding-bottom: 3em;
+	}
+	.categoryMain {
+    margin-bottom: 25px;
+}
+section.topCategoriesSection {
+    padding: 40px 0px;
+}
+.slider-main {
+    margin-right: 0;
+}
+.thumbchnge {
+    margin: 10px;
+}
+.slick-prev {
+    left: 0;
+}
+.specialDealSection .slick-next {
+    right: 0;
+}
+.specialDealSection {
+    padding: 0px 0px 30px;
+}
+section.advertiseSection {
+    padding: 30px 0px;
+}
+.footer .px-0 {
+    padding-left: 15px!important;
+}
+
+.user-menu .header-notifications-trigger a {
+    justify-content: center;
+    width: 24%;
+    margin: auto !important;
+}
+header .search form {
+    width: 100%;
+}
+
+.avatar-upload .avatar-preview {
+    width: 100px;
+    height: 100px;
+}
+
+.avatar-upload .avatar-edit {
+    right: 40px;
+}
+.relatedProSec .w-100{
+	display: none;
+}
+}
+
+@media only screen and (max-width: 767px) {
+	.radio label {
+    font-size: 14px;
+}
+	.changePassword .title {
+    font-size: 1.4rem;
+}
+	.formStyle .form-control {
+    font-size: 15px;
+    padding: 0 10px;
+}
+.accountDetail .nav {
+    margin-bottom: 30px;
+}
+.relatedChnge .w-100 {
+   display: none;
+}
+.relatedChnge .tab-content .col{
+	flex: 1 1 33.33%;
+}
+	.proThumb .content h4 {
+    font-size: 15px !important;
+    line-height: 23px;
+    min-height: auto;
+    margin: 0 0 15px;
+}
+	.user-menu .header-notifications-trigger a {
+    width: 32%;
+}
+	.advertiseSlider .slick-prev {
+    left: 0;
+    z-index: 11;
+}
+.advertiseSlider .slick-next {
+    right: 0;
+    z-index: 1;
+}
+.footer-widget {
+    padding: 1em 0em 0em 0em;
+}
+
+.footer-social {
+    margin-bottom: 0;
+}
+
+	header .search,
+	header .top {
+		padding: 10px;
+	}
+	header .search form {
+		width: 100%;
+	}
+	header .search .cartIo {
+		width: 10%;
+	}
+	header .search form button {
+		width: 30%;
+	}
+	header .search form .form-control {
+		width: 70%;
+	}
+	header .bottom .navbar {
+		justify-content: flex-end;
+		padding-bottom: 10px;
+		margin-right: 10px;
+	}
+	.mainBan h2 {
+		font-size: 4rem;
+		line-height: 4rem;
+		margin-bottom: 15px;
+	}
+	.mainBan .cell {
+		margin: 0 10px;
+	}
+	.featuredProducts {
+		padding: 2em 0 0;
+	}
+	.title {
+		font-size: 2rem;
+	}
+	.gearThumb {
+		text-align: center;
+	}
+	.gearThumb h4:after {
+		margin-left: 10%;
+	}
+	.proFilter {
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
+	.gearThumb .circle {
+		height: 13rem;
+		width: 13rem;
+		margin: 0 auto 2rem;
+	}
+	.relatedProSec .nav-pills {
+		flex-flow: column;
+		text-align: center;
+	}
+	.introSec h3 {
+		font-size: 1.4rem;
+		line-height: 2rem;
+		margin-bottom: 1.5rem;
+	}
+	.proDetail h3 {
+		margin-top: 2rem;
+	}
+	.proDetail .detl {
+		margin-top: 1rem;
+	}
+	.proDetail hr {
+		margin: 2rem 0;
+	}
+	.changePassword,
+	.cartSec,
+	.proShowcase,
+	.proDetail {
+		padding: 3rem 0;
+	}
+	.relatedProducts {
+		padding-bottom: 2rem;
+	}
+	.proThumb {
+		margin-bottom: 15px;
+	}
+	.orderSumry .summary-body {
+		padding: 1.5rem;
+	}
+	.checkoutSec #loginCollapse .card-body {
+		flex-flow: column;
+	}
+	.checkoutSec #loginCollapse .card-body .orangeBtn {
+		flex: 0 0 100%;
+	}
+	.checkoutSec #loginCollapse .card-body .orangeBtn:nth-child(2) {
+		margin: 14px 0;
+	}
+	.lg-menu ul {
+		margin-top: 15px;
+	}
+	.lg-menu ul li {
+		padding: 0 20px 0 0;
+	}
+	.orangeBtn {
+    font-size: 1rem;
+    padding: 0.4rem 1rem;
+}
+
+.cartSec .title {
+    margin-bottom: 0rem;
+    font-size: 25px;
+}
+.sellerPicMain > img {
+    width: 130px;
+}
+.sellerPicMain > img {
+    margin-right: 15px !important;
+    width: 90px;
+}
+
+.sellerPicMain .media-body h2 {font-size: 1.5rem;}
+
+.sellerPicMain .media-body p {
+    font-size: 15px;
+}
+}
+
+@media only screen and (max-width: 575px) {
+
+	.tAndCMain h2 {
+    font-size: 19px;
+}
+.tAndCMain h3 {
+    font-size: 18px;
+}
+
+	.sortFilter {
+    display: block !important;
+    text-align: center;
+}
+
+.sortFilter p {
+    margin: 0 0 15px !important;
+}
+
+	.accountDetail .title, .cartSec .title, .relatedProducts .title, .proShowcase h2.title {
+    font-size: 25px;
+    margin-bottom: 1rem;
+}
+.proThumb .content h4 {
+    font-size: 15px !important;
+}
+	.orderSumry .summary-body {
+    padding: 1.5rem 15px;
+}
+.orderSumry .summary-body strong {
+    font-size: 13px;
+}
+	.dealZoneSec h2 {
+		    font-size: 19px;
+}
+
+.relatedChnge .tab-content .col{
+	flex: 1 1 50%;
+}
+section.topCategoriesSection h2 {
+    font-size: 22px;
+}
+
+section.relatedProSec h2 {
+    font-size: 22px !important;
+}
+
+.specialDealSection h2 {
+    font-size: 22px !important;
+}
+
+.advertiseSection h2 {
+    font-size: 22px !important;
+}
+
+.featuredSec.secfeatured h2 {
+    font-size: 1.7rem;
+}
+	.mainBan .cell a {
+    margin-bottom: 10px;
+}
+	.proThumb .content {
+    padding: 10px;
+}
+.proThumb .content span {
+    font-size: 14px;
+}
+
+	header .search form {
+		width: 100%;
+	}
+	header .search .cartIo {
+		width: 13%;
+	}
+	header .search form button {
+		width: 34%;
+		font-size: 14px;
+		padding: 10px 5px;
+	}
+	header .search form .form-control {
+		width: 66%;
+	}
+	.mainBan {
+		padding: 2rem 0;
+		background-position: center;
+	}
+	.mainBan h2 {
+		font-size: 2.5rem;
+		line-height: 3rem;
+		margin-bottom: 10px;
+	}
+	.mainBan .cell {
+		width: 40%;
+	}
+	.featuredSec h2,
+	.featuredProducts .title {
+		padding-bottom: 1rem;
+		margin-bottom: 1rem;
+		font-size: 1.8rem;
+	}
+	.featuredSec p {
+		font-size: 18px;
+	}
+	.featuredSec p,
+	.featuredSec small {
+		margin-bottom: 1rem;
+	}
+	.proShowcase .breadcrumb {
+		display: none;
+	}
+	.pagiStyle .pagination .page-link {
+		min-width: 40px;
+		height: 40px;
+		margin: 0 3px;
+	}
+	.pagiStyle .pagination .page-item:first-child .page-link,
+	.pagiStyle .pagination .page-item:last-child .page-link {
+		min-width: 60px;
+	}
+	.proDetail .slider-nav div {
+		padding: 0 2px;
+	}
+	.proDetail .slider-nav {
+		margin-top: 15px;
+	}
+	.register-tab {
+		padding: 1em 0;
+	}
+	.login-panel form {
+		padding: 30px 10px 10px 10px;
+	}
+	.radio {
+		display: flex;
+	}
+	.radio input {
+		margin: 6px 6px 0 0;
+	}
+	.user-menu .header-notifications-trigger a {
+		width: 48%;
+	}
+}
